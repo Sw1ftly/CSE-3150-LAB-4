@@ -2,5 +2,5 @@
 
 How to run unit tests:
 
-g++ gen_perm.cpp unit_tests.cpp fisher_yates.cpp
-./a.out
+1.   g++ gen_perm.cpp unit_tests.cpp fisher_yates.cpp
+2.   ./a.out
